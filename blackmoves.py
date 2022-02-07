@@ -1,0 +1,18 @@
+# Moves
+def blackmoves():
+    firstpawnfirst = "H3"
+    firstpawnsecond = "H4"
+    secondpawnfirst = "G3"
+    secondpawnsecond = "G4"
+    thirdpawnfirst = "F3"
+    thirdpawnsecond = "F4"
+    fourthpawnfirst = "E3"
+    fourthpawnsecond = "E4"
+    fifthpawnfirst = "D3"
+    fifthpawnsecond = "D4"
+    sixthpawnfirst = "C3"
+    sixthpawnsecond = "C4"
+    seventhpawnfirst = "B3"
+    seventhpawnsecond = "B4"
+    eighthpawnfirst = "A3"
+    eighthpawnsecond = "A4"

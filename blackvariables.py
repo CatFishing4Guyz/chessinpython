@@ -1,0 +1,18 @@
+# Black Pieces
+def blackvariables():
+    firstpawnpos = "H2"
+    secondpawnpos = "G2"
+    thirdpawnpos = "F2"
+    fourthpawnpos = "E2"
+    fifthpawnpos = "D2"
+    sixthpawnpos = "C2"
+    seventhpawnpos = "B2"
+    eighthpawnpos = "A2"
+    westrookpos = "H1"
+    eastrookpos = "A1"
+    westknightpos = "G1"
+    eastknightpos = "B1"
+    westbishoppos = "F1"
+    eastbishoppos = "C1"
+    queenpos = "E1"
+    kingpos = "D1"

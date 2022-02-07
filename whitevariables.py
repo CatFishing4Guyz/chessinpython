@@ -1,0 +1,18 @@
+# White Pieces
+def whitevariables():
+    print('firstpawnpos = "A2"')
+    print('secondpawnpos = "B2"')
+    print('thirdpawnpos = "C2"')
+    print('fourthpawnpos = "D2"')
+    print('fifthpawnpos = "E2"')
+    print('sixthpawnpos = "F2"')
+    print('seventhpawnpos = "G2"')
+    print('eighthpawnpos = "H2"')
+    print('westrookpos = "A1"')
+    print('eastrookpos = "H1"')
+    print('westknightpos = "B1"')
+    print('eastknightpos = "G1"')
+    print('westbishoppos = "C1"')
+    print('eastbishoppos = "F1"')
+    print('queenpos = "D1"')
+    print('kingpos = "E1"')
