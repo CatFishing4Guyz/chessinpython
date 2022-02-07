@@ -1,2 +1,2 @@
-# chessinpython
+# Chess in Python
 WIP attempt to make a chess engine and CLI from Python
