@@ -1,2 +1,2 @@
 # Chess in Python
-WIP attempt to make a chess engine and CLI from Python
+Project is abandoned, go whatever you want with it. Too hard for me.
